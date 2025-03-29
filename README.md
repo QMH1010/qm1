@@ -1,5 +1,4 @@
-# qm1
-coding sample_python
+# coding sample_python
 pip install pandas textblob
 python
 import pandas as pd
